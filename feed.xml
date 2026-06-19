@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 17:49:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:50:34 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -133,6 +133,15 @@
       <link>https://paperclip.ai/blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</guid>
       <description><![CDATA[A practical guide to writing agent role definitions that produce consistent, high-quality output. Includes templates, anti-patterns, and real examples from our production agents.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[Paperclip Blog Directory: All Articles by Topic]]></title>
+      <link>https://paperclip.ai/blog/paperclip-blog-directory-all-articles</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/paperclip-blog-directory-all-articles</guid>
+      <description><![CDATA[Complete directory of 25 technical articles on AI agent orchestration, covering architecture, guides, market analysis, and case studies. Browse by topic cluster.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
