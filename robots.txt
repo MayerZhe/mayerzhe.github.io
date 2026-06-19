@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mayerzhe.github.io/paperclip-blog/sitemap.xml
