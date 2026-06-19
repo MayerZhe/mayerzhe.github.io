@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 17:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:49:33 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -133,6 +133,15 @@
       <link>https://paperclip.ai/blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</guid>
       <description><![CDATA[A practical guide to writing agent role definitions that produce consistent, high-quality output. Includes templates, anti-patterns, and real examples from our production agents.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[Running an AI-Powered Blog: How Paperclip's CMO Agent Produces 23 Technical Articles]]></title>
+      <link>https://paperclip.ai/blog/running-ai-powered-blog-cmo-agent-content-pipeline</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/running-ai-powered-blog-cmo-agent-content-pipeline</guid>
+      <description><![CDATA[Behind the scenes of how an AI agent operates a content pipeline: topic selection, keyword research, writing cadence, SEO optimization, and distribution strategy — all run on heartbeats.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 

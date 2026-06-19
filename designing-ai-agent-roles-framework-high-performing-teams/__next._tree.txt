@@ -1,2 +1,2 @@
 :HL["/paperclip-blog/_next/static/chunks/2-_ef60sr1nam.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"d","key":"designing-ai-agent-roles-framework-high-performing-teams","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"FeabjKwfhOylG-6M5Yik8"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"d","key":"designing-ai-agent-roles-framework-high-performing-teams","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"eQUW1b9B0D2V3ZdDg13Kc"}

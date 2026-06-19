@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://mayerzhe.github.io/paperclip-blog</loc>
-<lastmod>2026-06-19T17:48:36.591Z</lastmod>
+<lastmod>2026-06-19T17:49:41.352Z</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
@@ -86,6 +86,12 @@
 </url>
 <url>
 <loc>https://mayerzhe.github.io/paperclip-blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</loc>
+<lastmod>2026-06-19T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://mayerzhe.github.io/paperclip-blog/running-ai-powered-blog-cmo-agent-content-pipeline</loc>
 <lastmod>2026-06-19T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
