@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://mayerzhe.github.io/paperclip-blog</loc>
-<lastmod>2026-06-19T17:00:34.010Z</lastmod>
+<lastmod>2026-06-19T17:07:16.713Z</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
@@ -26,6 +26,12 @@
 </url>
 <url>
 <loc>https://mayerzhe.github.io/paperclip-blog/audit-trails-for-ai-agents-logging-guide</loc>
+<lastmod>2026-06-19T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://mayerzhe.github.io/paperclip-blog/automating-git-workflow-with-ai-agents-pr-review-issue-triage</loc>
 <lastmod>2026-06-19T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>

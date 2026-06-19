@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 17:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:07:10 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -43,6 +43,15 @@
       <link>https://paperclip.ai/blog/audit-trails-for-ai-agents-logging-guide</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/audit-trails-for-ai-agents-logging-guide</guid>
       <description><![CDATA[How to build comprehensive audit logging for autonomous AI agent operations. Why structural observability beats post-hoc debugging, and what to log at each level of the agent stack.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[Automating Your Git Workflow with AI Agents: PR Review, Issue Triage, and CI Management]]></title>
+      <link>https://paperclip.ai/blog/automating-git-workflow-with-ai-agents-pr-review-issue-triage</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/automating-git-workflow-with-ai-agents-pr-review-issue-triage</guid>
+      <description><![CDATA[How to delegate code review, issue triage, CI monitoring, and release management to AI agents. Real workflows, adapter configurations, and what to automate first.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
