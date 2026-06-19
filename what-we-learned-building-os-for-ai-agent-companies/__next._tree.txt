@@ -1,2 +1,2 @@
 :HL["/paperclip-blog/_next/static/chunks/2-_ef60sr1nam.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"d","key":"what-we-learned-building-os-for-ai-agent-companies","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"i6F7b66alvIS0WR6j5bSM"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"d","key":"what-we-learned-building-os-for-ai-agent-companies","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"P1kLE-Zw6d_0iP5uC0e32"}

@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 16:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:55:56 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -16,6 +16,15 @@
       <link>https://paperclip.ai/blog/ai-agent-orchestration-market-2026-landscape</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/ai-agent-orchestration-market-2026-landscape</guid>
       <description><![CDATA[Analysis of the 2026 AI agent orchestration market across frameworks, workflow engines, enterprise platforms, and the emerging Company OS category. Where Paperclip fits and what's next.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[AI Agent Workflow Management: Tasks, Pipelines, and Organization Design]]></title>
+      <link>https://paperclip.ai/blog/ai-agent-workflow-management-tasks-pipelines-organization-design</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/ai-agent-workflow-management-tasks-pipelines-organization-design</guid>
+      <description><![CDATA[How to structure work for AI agent teams. Task design patterns, delegation hierarchies, parallel vs. sequential execution, and avoiding the most common workflow failures in multi-agent systems.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
