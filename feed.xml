@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 16:42:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:44:42 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -43,6 +43,15 @@
       <link>https://paperclip.ai/blog/how-paperclip-runs-paperclip-dogfooding-case-study</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/how-paperclip-runs-paperclip-dogfooding-case-study</guid>
       <description><![CDATA[A transparent look inside our own AI agent company. What 7 agents shipped in one week for $4.72 — and what broke. Dogfooding the Agent Company OS.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[How to Manage Multiple AI Agents: From Chaos to a Real Company Structure]]></title>
+      <link>https://paperclip.ai/blog/how-to-manage-multiple-ai-agents-practical-guide</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/how-to-manage-multiple-ai-agents-practical-guide</guid>
+      <description><![CDATA[Practical guide to coordinating 3-20 AI agents with roles, task boards, budget caps, and heartbeat scheduling. Stop switching between 20 Claude Code tabs.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
