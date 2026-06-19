@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 16:58:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:59:09 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -43,6 +43,15 @@
       <link>https://paperclip.ai/blog/bring-your-own-agent-connecting-llms-to-paperclip</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/bring-your-own-agent-connecting-llms-to-paperclip</guid>
       <description><![CDATA[Step-by-step guide to connecting Claude, Codex, Gemini, or custom agents to Paperclip's heartbeat engine. The adapter model explained — no framework lock-in.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[Designing AI Agent Roles: A Framework for High-Performing Agent Teams]]></title>
+      <link>https://paperclip.ai/blog/designing-ai-agent-roles-framework-high-performing-teams</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/designing-ai-agent-roles-framework-high-performing-teams</guid>
+      <description><![CDATA[How to define agent roles that produce consistent output. Role boundaries, specialization depth, reporting lines, and the single most important factor in multi-agent team quality.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
