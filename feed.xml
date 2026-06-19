@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 17:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:14:10 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -124,6 +124,15 @@
       <link>https://paperclip.ai/blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</guid>
       <description><![CDATA[A practical guide to writing agent role definitions that produce consistent, high-quality output. Includes templates, anti-patterns, and real examples from our production agents.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[Scaling AI Agent Teams: From Prototype to Production]]></title>
+      <link>https://paperclip.ai/blog/scaling-ai-agent-teams-prototype-to-production-guide</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/scaling-ai-agent-teams-prototype-to-production-guide</guid>
+      <description><![CDATA[The operational playbook for scaling from 2-3 experimental agents to 20+ production agents. Infrastructure, governance, monitoring, and organizational patterns that work at scale.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
