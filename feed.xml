@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 16:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:57:02 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -25,6 +25,15 @@
       <link>https://paperclip.ai/blog/ai-agent-workflow-management-tasks-pipelines-organization-design</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/ai-agent-workflow-management-tasks-pipelines-organization-design</guid>
       <description><![CDATA[How to structure work for AI agent teams. Task design patterns, delegation hierarchies, parallel vs. sequential execution, and avoiding the most common workflow failures in multi-agent systems.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[Audit Trails for AI Agents: Why Every Task, Decision, and Budget Event Must Be Logged]]></title>
+      <link>https://paperclip.ai/blog/audit-trails-for-ai-agents-logging-guide</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/audit-trails-for-ai-agents-logging-guide</guid>
+      <description><![CDATA[How to build comprehensive audit logging for autonomous AI agent operations. Why structural observability beats post-hoc debugging, and what to log at each level of the agent stack.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
