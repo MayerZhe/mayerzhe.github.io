@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 16:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:48:48 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -61,6 +61,15 @@
       <link>https://paperclip.ai/blog/how-to-manage-multiple-ai-agents-practical-guide</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/how-to-manage-multiple-ai-agents-practical-guide</guid>
       <description><![CDATA[Practical guide to coordinating 3-20 AI agents with roles, task boards, budget caps, and heartbeat scheduling. Stop switching between 20 Claude Code tabs.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[How to Reduce AI Agent API Costs by 60-80%: A Practical Guide]]></title>
+      <link>https://paperclip.ai/blog/how-to-reduce-ai-agent-api-costs-practical-guide</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/how-to-reduce-ai-agent-api-costs-practical-guide</guid>
+      <description><![CDATA[Concrete strategies to cut your AI agent spending without sacrificing quality. Model tiering, prompt optimization, heartbeat tuning, and budget enforcement techniques that actually work.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
