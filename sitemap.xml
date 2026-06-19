@@ -2,12 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://mayerzhe.github.io/paperclip-blog</loc>
-<lastmod>2026-06-19T16:59:14.652Z</lastmod>
+<lastmod>2026-06-19T17:00:34.010Z</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
 <url>
 <loc>https://mayerzhe.github.io/paperclip-blog/ai-agent-orchestration-market-2026-landscape</loc>
+<lastmod>2026-06-19T00:00:00.000Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://mayerzhe.github.io/paperclip-blog/ai-agent-security-autonomous-agents-production-guide</loc>
 <lastmod>2026-06-19T00:00:00.000Z</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.7</priority>
