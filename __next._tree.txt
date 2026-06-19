@@ -1,2 +1,2 @@
 :HL["/paperclip-blog/_next/static/chunks/2-_ef60sr1nam.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"_T4DlmKWUbbrly5J5kMQF"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"R00NvemZKb6_vVIU2dAiu"}

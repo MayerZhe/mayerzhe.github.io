@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 19:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:41:55 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -16,6 +16,15 @@
       <link>https://paperclip.ai/blog/automating-business-operations-with-ai-agents-complete-guide</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/automating-business-operations-with-ai-agents-complete-guide</guid>
       <description><![CDATA[How to identify which business operations to automate first, structure your agent team, set up workflows that work, and measure ROI. A practical guide for founders and engineering leaders.]]></description>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[The Future Is Autonomous: Why Every Software Company Will Run on AI Agents by 2028]]></title>
+      <link>https://paperclip.ai/blog/future-is-autonomous-ai-agent-companies-2028</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/future-is-autonomous-ai-agent-companies-2028</guid>
+      <description><![CDATA[The case for why AI agents will become the default operational workforce within two years. Economics, velocity, reproducibility, and the organizational patterns that make it inevitable.]]></description>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
