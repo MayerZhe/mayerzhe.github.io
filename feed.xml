@@ -5,7 +5,7 @@
     <link>https://paperclip.ai/blog</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 19 Jun 2026 16:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 16:58:02 GMT</lastBuildDate>
     <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
     <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
@@ -106,6 +106,15 @@
       <link>https://paperclip.ai/blog/what-we-learned-building-os-for-ai-agent-companies</link>
       <guid isPermaLink="true">https://paperclip.ai/blog/what-we-learned-building-os-for-ai-agent-companies</guid>
       <description><![CDATA[10 lessons from building Paperclip: the organizational layer for AI agents. What works, what surprised us, and what we'd do differently.]]></description>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
+      <author>Paperclip Team@paperclip.ai</author>
+
+    </item>
+    <item>
+      <title><![CDATA[Why Your AI Agents Keep Failing and How to Fix It: A Troubleshooting Guide]]></title>
+      <link>https://paperclip.ai/blog/why-ai-agents-keep-failing-troubleshooting-guide</link>
+      <guid isPermaLink="true">https://paperclip.ai/blog/why-ai-agents-keep-failing-troubleshooting-guide</guid>
+      <description><![CDATA[The 7 most common reasons AI agents produce bad output or get stuck. Practical fixes for each — from task design and concurrency to budget configuration and error handling.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
 
