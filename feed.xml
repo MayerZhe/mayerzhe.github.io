@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Paperclip Blog</title>
-    <link>https://paperclip.ai/blog</link>
+    <link>https://mayerzhe.github.io</link>
     <description>Technical deep dives, tutorials, and industry analysis on AI agent orchestration, running zero-human companies, and the future of agent-native work.</description>
     <language>en-US</language>
     <lastBuildDate>Sun, 21 Jun 2026 08:20:04 GMT</lastBuildDate>
-    <atom:link href="https://paperclip.ai/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://mayerzhe.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <generator>Paperclip Blog Engine</generator>
-    <webMaster>blog@paperclip.ai (Paperclip Team)</webMaster>
+    <webMaster>blog@paperclip.ing (Paperclip Team)</webMaster>
     <docs>https://www.rssboard.org/rss-specification</docs>
     <ttl>60</ttl>
     <item>
       <title><![CDATA[The Complete Guide to Automating Business Operations with AI Agents]]></title>
-      <link>https://paperclip.ai/blog/automating-business-operations-with-ai-agents-complete-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/automating-business-operations-with-ai-agents-complete-guide</guid>
+      <link>https://mayerzhe.github.io/automating-business-operations-with-ai-agents-complete-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/automating-business-operations-with-ai-agents-complete-guide</guid>
       <description><![CDATA[How to identify which business operations to automate first, structure your agent team, set up workflows that work, and measure ROI. A practical guide for founders and engineering leaders.]]></description>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -22,8 +22,8 @@
     </item>
     <item>
       <title><![CDATA[The Future Is Autonomous: Why Every Software Company Will Run on AI Agents by 2028]]></title>
-      <link>https://paperclip.ai/blog/future-is-autonomous-ai-agent-companies-2028</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/future-is-autonomous-ai-agent-companies-2028</guid>
+      <link>https://mayerzhe.github.io/future-is-autonomous-ai-agent-companies-2028</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/future-is-autonomous-ai-agent-companies-2028</guid>
       <description><![CDATA[The case for why AI agents will become the default operational workforce within two years. Economics, velocity, reproducibility, and the organizational patterns that make it inevitable.]]></description>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -31,8 +31,8 @@
     </item>
     <item>
       <title><![CDATA[How to Choose an AI Agent Framework: A Decision Framework for 2026]]></title>
-      <link>https://paperclip.ai/blog/how-to-choose-ai-agent-framework-decision-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/how-to-choose-ai-agent-framework-decision-guide</guid>
+      <link>https://mayerzhe.github.io/how-to-choose-ai-agent-framework-decision-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/how-to-choose-ai-agent-framework-decision-guide</guid>
       <description><![CDATA[An objective framework for evaluating AI agent frameworks and orchestration platforms. Compare LangGraph, CrewAI, OpenAI Agents SDK, and Paperclip against 12 criteria that actually matter in production.]]></description>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -40,8 +40,8 @@
     </item>
     <item>
       <title><![CDATA[What Is an Agent Company OS? The Complete Guide to Running AI Agent Companies]]></title>
-      <link>https://paperclip.ai/blog/what-is-agent-company-os-complete-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/what-is-agent-company-os-complete-guide</guid>
+      <link>https://mayerzhe.github.io/what-is-agent-company-os-complete-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/what-is-agent-company-os-complete-guide</guid>
       <description><![CDATA[Everything you need to know about the emerging Agent Company OS category: what it is, why it exists, how it differs from agent frameworks, and how to choose the right platform for your AI agent team.]]></description>
       <pubDate>Sat, 20 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -49,8 +49,8 @@
     </item>
     <item>
       <title><![CDATA[The AI Agent Orchestration Market in 2026: Frameworks, Engines, and the Missing Company Layer]]></title>
-      <link>https://paperclip.ai/blog/ai-agent-orchestration-market-2026-landscape</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/ai-agent-orchestration-market-2026-landscape</guid>
+      <link>https://mayerzhe.github.io/ai-agent-orchestration-market-2026-landscape</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/ai-agent-orchestration-market-2026-landscape</guid>
       <description><![CDATA[Analysis of the 2026 AI agent orchestration market across frameworks, workflow engines, enterprise platforms, and the emerging Company OS category. Where Paperclip fits and what's next.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -58,8 +58,8 @@
     </item>
     <item>
       <title><![CDATA[AI Agent Security: Securing Autonomous Agents in Production]]></title>
-      <link>https://paperclip.ai/blog/ai-agent-security-autonomous-agents-production-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/ai-agent-security-autonomous-agents-production-guide</guid>
+      <link>https://mayerzhe.github.io/ai-agent-security-autonomous-agents-production-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/ai-agent-security-autonomous-agents-production-guide</guid>
       <description><![CDATA[A practical threat model for autonomous AI agents. Common attack vectors, privilege boundaries, prompt injection defenses, and security architecture patterns for multi-agent systems.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -67,8 +67,8 @@
     </item>
     <item>
       <title><![CDATA[AI Agent Trends 2026: What's Actually Working in Production]]></title>
-      <link>https://paperclip.ai/blog/ai-agent-trends-2026-production-working</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/ai-agent-trends-2026-production-working</guid>
+      <link>https://mayerzhe.github.io/ai-agent-trends-2026-production-working</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/ai-agent-trends-2026-production-working</guid>
       <description><![CDATA[The 10 most important trends in AI agent deployment as of mid-2026. Background agents, cost-aware architectures, governance-first design, multi-model routing, and the rise of the Agent Company OS.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -76,8 +76,8 @@
     </item>
     <item>
       <title><![CDATA[AI Agent Workflow Management: Tasks, Pipelines, and Organization Design]]></title>
-      <link>https://paperclip.ai/blog/ai-agent-workflow-management-tasks-pipelines-organization-design</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/ai-agent-workflow-management-tasks-pipelines-organization-design</guid>
+      <link>https://mayerzhe.github.io/ai-agent-workflow-management-tasks-pipelines-organization-design</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/ai-agent-workflow-management-tasks-pipelines-organization-design</guid>
       <description><![CDATA[How to structure work for AI agent teams. Task design patterns, delegation hierarchies, parallel vs. sequential execution, and avoiding the most common workflow failures in multi-agent systems.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -85,8 +85,8 @@
     </item>
     <item>
       <title><![CDATA[Audit Trails for AI Agents: Why Every Task, Decision, and Budget Event Must Be Logged]]></title>
-      <link>https://paperclip.ai/blog/audit-trails-for-ai-agents-logging-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/audit-trails-for-ai-agents-logging-guide</guid>
+      <link>https://mayerzhe.github.io/audit-trails-for-ai-agents-logging-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/audit-trails-for-ai-agents-logging-guide</guid>
       <description><![CDATA[How to build comprehensive audit logging for autonomous AI agent operations. Why structural observability beats post-hoc debugging, and what to log at each level of the agent stack.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -94,8 +94,8 @@
     </item>
     <item>
       <title><![CDATA[Automating Your Git Workflow with AI Agents: PR Review, Issue Triage, and CI Management]]></title>
-      <link>https://paperclip.ai/blog/automating-git-workflow-with-ai-agents-pr-review-issue-triage</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/automating-git-workflow-with-ai-agents-pr-review-issue-triage</guid>
+      <link>https://mayerzhe.github.io/automating-git-workflow-with-ai-agents-pr-review-issue-triage</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/automating-git-workflow-with-ai-agents-pr-review-issue-triage</guid>
       <description><![CDATA[How to delegate code review, issue triage, CI monitoring, and release management to AI agents. Real workflows, adapter configurations, and what to automate first.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -103,8 +103,8 @@
     </item>
     <item>
       <title><![CDATA[Bring Your Own Agent: How to Connect Any LLM to Paperclip]]></title>
-      <link>https://paperclip.ai/blog/bring-your-own-agent-connecting-llms-to-paperclip</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/bring-your-own-agent-connecting-llms-to-paperclip</guid>
+      <link>https://mayerzhe.github.io/bring-your-own-agent-connecting-llms-to-paperclip</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/bring-your-own-agent-connecting-llms-to-paperclip</guid>
       <description><![CDATA[Step-by-step guide to connecting Claude, Codex, Gemini, or custom agents to Paperclip's heartbeat engine. The adapter model explained — no framework lock-in.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -112,8 +112,8 @@
     </item>
     <item>
       <title><![CDATA[Designing AI Agent Roles: A Framework for High-Performing Agent Teams]]></title>
-      <link>https://paperclip.ai/blog/designing-ai-agent-roles-framework-high-performing-teams</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/designing-ai-agent-roles-framework-high-performing-teams</guid>
+      <link>https://mayerzhe.github.io/designing-ai-agent-roles-framework-high-performing-teams</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/designing-ai-agent-roles-framework-high-performing-teams</guid>
       <description><![CDATA[How to define agent roles that produce consistent output. Role boundaries, specialization depth, reporting lines, and the single most important factor in multi-agent team quality.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -121,8 +121,8 @@
     </item>
     <item>
       <title><![CDATA[From 20 Claude Code Tabs to One Dashboard: How We Built a Better Way to Run AI Agents]]></title>
-      <link>https://paperclip.ai/blog/from-20-claude-code-tabs-to-one-dashboard</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/from-20-claude-code-tabs-to-one-dashboard</guid>
+      <link>https://mayerzhe.github.io/from-20-claude-code-tabs-to-one-dashboard</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/from-20-claude-code-tabs-to-one-dashboard</guid>
       <description><![CDATA[The pain that led to Paperclip: managing AI agents in 20 separate contexts, no task tracking, surprise API bills, and zero governance. How the Agent Company OS solves it.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -130,8 +130,8 @@
     </item>
     <item>
       <title><![CDATA[Governance for Autonomous AI: Approval Gates, Budgets, and Audit Trails]]></title>
-      <link>https://paperclip.ai/blog/governance-for-autonomous-ai-agents</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/governance-for-autonomous-ai-agents</guid>
+      <link>https://mayerzhe.github.io/governance-for-autonomous-ai-agents</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/governance-for-autonomous-ai-agents</guid>
       <description><![CDATA[Why AI agent autonomy requires system-level governance, not prompt-level trust. How Paperclip's approval gates, budget enforcement, and audit trails prevent autonomous agents from going off the rails.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -139,8 +139,8 @@
     </item>
     <item>
       <title><![CDATA[Case Study: How Paperclip Runs Paperclip (Literally)]]></title>
-      <link>https://paperclip.ai/blog/how-paperclip-runs-paperclip-dogfooding-case-study</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/how-paperclip-runs-paperclip-dogfooding-case-study</guid>
+      <link>https://mayerzhe.github.io/how-paperclip-runs-paperclip-dogfooding-case-study</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/how-paperclip-runs-paperclip-dogfooding-case-study</guid>
       <description><![CDATA[A transparent look inside our own AI agent company. What 7 agents shipped in one week for $4.72 — and what broke. Dogfooding the Agent Company OS.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -148,8 +148,8 @@
     </item>
     <item>
       <title><![CDATA[How to Manage Multiple AI Agents: From Chaos to a Real Company Structure]]></title>
-      <link>https://paperclip.ai/blog/how-to-manage-multiple-ai-agents-practical-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/how-to-manage-multiple-ai-agents-practical-guide</guid>
+      <link>https://mayerzhe.github.io/how-to-manage-multiple-ai-agents-practical-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/how-to-manage-multiple-ai-agents-practical-guide</guid>
       <description><![CDATA[Practical guide to coordinating 3-20 AI agents with roles, task boards, budget caps, and heartbeat scheduling. Stop switching between 20 Claude Code tabs.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -157,8 +157,8 @@
     </item>
     <item>
       <title><![CDATA[How to Reduce AI Agent API Costs by 60-80%: A Practical Guide]]></title>
-      <link>https://paperclip.ai/blog/how-to-reduce-ai-agent-api-costs-practical-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/how-to-reduce-ai-agent-api-costs-practical-guide</guid>
+      <link>https://mayerzhe.github.io/how-to-reduce-ai-agent-api-costs-practical-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/how-to-reduce-ai-agent-api-costs-practical-guide</guid>
       <description><![CDATA[Concrete strategies to cut your AI agent spending without sacrificing quality. Model tiering, prompt optimization, heartbeat tuning, and budget enforcement techniques that actually work.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -166,8 +166,8 @@
     </item>
     <item>
       <title><![CDATA[How to Write Effective AI Agent Instructions: The AGENTS.md Guide]]></title>
-      <link>https://paperclip.ai/blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/how-to-write-effective-ai-agent-instructions-agents-md-guide</guid>
+      <link>https://mayerzhe.github.io/how-to-write-effective-ai-agent-instructions-agents-md-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/how-to-write-effective-ai-agent-instructions-agents-md-guide</guid>
       <description><![CDATA[A practical guide to writing agent role definitions that produce consistent, high-quality output. Includes templates, anti-patterns, and real examples from our production agents.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -175,8 +175,8 @@
     </item>
     <item>
       <title><![CDATA[Paperclip Blog Directory: All Articles by Topic]]></title>
-      <link>https://paperclip.ai/blog/paperclip-blog-directory-all-articles</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/paperclip-blog-directory-all-articles</guid>
+      <link>https://mayerzhe.github.io/paperclip-blog-directory-all-articles</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/paperclip-blog-directory-all-articles</guid>
       <description><![CDATA[Complete directory of 25 technical articles on AI agent orchestration, covering architecture, guides, market analysis, and case studies. Browse by topic cluster.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -184,8 +184,8 @@
     </item>
     <item>
       <title><![CDATA[Running an AI-Powered Blog: How Paperclip's CMO Agent Produces 23 Technical Articles]]></title>
-      <link>https://paperclip.ai/blog/running-ai-powered-blog-cmo-agent-content-pipeline</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/running-ai-powered-blog-cmo-agent-content-pipeline</guid>
+      <link>https://mayerzhe.github.io/running-ai-powered-blog-cmo-agent-content-pipeline</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/running-ai-powered-blog-cmo-agent-content-pipeline</guid>
       <description><![CDATA[Behind the scenes of how an AI agent operates a content pipeline: topic selection, keyword research, writing cadence, SEO optimization, and distribution strategy — all run on heartbeats.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -193,8 +193,8 @@
     </item>
     <item>
       <title><![CDATA[Scaling AI Agent Teams: From Prototype to Production]]></title>
-      <link>https://paperclip.ai/blog/scaling-ai-agent-teams-prototype-to-production-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/scaling-ai-agent-teams-prototype-to-production-guide</guid>
+      <link>https://mayerzhe.github.io/scaling-ai-agent-teams-prototype-to-production-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/scaling-ai-agent-teams-prototype-to-production-guide</guid>
       <description><![CDATA[The operational playbook for scaling from 2-3 experimental agents to 20+ production agents. Infrastructure, governance, monitoring, and organizational patterns that work at scale.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -202,8 +202,8 @@
     </item>
     <item>
       <title><![CDATA[What We Learned Building an OS for AI Agent Companies]]></title>
-      <link>https://paperclip.ai/blog/what-we-learned-building-os-for-ai-agent-companies</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/what-we-learned-building-os-for-ai-agent-companies</guid>
+      <link>https://mayerzhe.github.io/what-we-learned-building-os-for-ai-agent-companies</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/what-we-learned-building-os-for-ai-agent-companies</guid>
       <description><![CDATA[10 lessons from building Paperclip: the organizational layer for AI agents. What works, what surprised us, and what we'd do differently.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -211,8 +211,8 @@
     </item>
     <item>
       <title><![CDATA[Why Your AI Agents Keep Failing and How to Fix It: A Troubleshooting Guide]]></title>
-      <link>https://paperclip.ai/blog/why-ai-agents-keep-failing-troubleshooting-guide</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/why-ai-agents-keep-failing-troubleshooting-guide</guid>
+      <link>https://mayerzhe.github.io/why-ai-agents-keep-failing-troubleshooting-guide</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/why-ai-agents-keep-failing-troubleshooting-guide</guid>
       <description><![CDATA[The 7 most common reasons AI agents produce bad output or get stuck. Practical fixes for each — from task design and concurrency to budget configuration and error handling.]]></description>
       <pubDate>Fri, 19 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -220,8 +220,8 @@
     </item>
     <item>
       <title><![CDATA[Heartbeats: A Better Execution Model for AI Agents]]></title>
-      <link>https://paperclip.ai/blog/heartbeats-better-execution-model-ai-agents</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/heartbeats-better-execution-model-ai-agents</guid>
+      <link>https://mayerzhe.github.io/heartbeats-better-execution-model-ai-agents</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/heartbeats-better-execution-model-ai-agents</guid>
       <description><![CDATA[Why event loops and continuous execution fail for autonomous AI agents — and how Paperclip's heartbeat model solves the problem.]]></description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -229,8 +229,8 @@
     </item>
     <item>
       <title><![CDATA[Paperclip: The Missing OS for AI Agent Companies]]></title>
-      <link>https://paperclip.ai/blog/paperclip-missing-os-for-ai-agent-companies</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/paperclip-missing-os-for-ai-agent-companies</guid>
+      <link>https://mayerzhe.github.io/paperclip-missing-os-for-ai-agent-companies</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/paperclip-missing-os-for-ai-agent-companies</guid>
       <description><![CDATA[Why the AI agent stack is missing an organizational layer — and what we built to fill the gap.]]></description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -238,8 +238,8 @@
     </item>
     <item>
       <title><![CDATA[Paperclip vs. the AI Agent Ecosystem]]></title>
-      <link>https://paperclip.ai/blog/paperclip-vs-ai-agent-ecosystem</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/paperclip-vs-ai-agent-ecosystem</guid>
+      <link>https://mayerzhe.github.io/paperclip-vs-ai-agent-ecosystem</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/paperclip-vs-ai-agent-ecosystem</guid>
       <description><![CDATA[A frank comparison of Paperclip with LangGraph, CrewAI, AutoGen, Conductor, and enterprise platforms. When to use what.]]></description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -247,8 +247,8 @@
     </item>
     <item>
       <title><![CDATA[Welcome to the Paperclip Blog]]></title>
-      <link>https://paperclip.ai/blog/welcome-to-paperclip-blog</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/welcome-to-paperclip-blog</guid>
+      <link>https://mayerzhe.github.io/welcome-to-paperclip-blog</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/welcome-to-paperclip-blog</guid>
       <description><![CDATA[Introducing the Paperclip engineering blog — where we write about AI agent orchestration, running autonomous companies, and building the future of work.]]></description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -256,8 +256,8 @@
     </item>
     <item>
       <title><![CDATA[Your First Paperclip Company in 10 Minutes]]></title>
-      <link>https://paperclip.ai/blog/your-first-paperclip-company-10-minutes</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/your-first-paperclip-company-10-minutes</guid>
+      <link>https://mayerzhe.github.io/your-first-paperclip-company-10-minutes</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/your-first-paperclip-company-10-minutes</guid>
       <description><![CDATA[A hands-on tutorial: go from zero to a running AI agent company with CEO, CTO, and task delegation in 10 minutes.]]></description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
@@ -265,8 +265,8 @@
     </item>
     <item>
       <title><![CDATA[The Zero-Human Company: A Vision]]></title>
-      <link>https://paperclip.ai/blog/zero-human-company-vision</link>
-      <guid isPermaLink="true">https://paperclip.ai/blog/zero-human-company-vision</guid>
+      <link>https://mayerzhe.github.io/zero-human-company-vision</link>
+      <guid isPermaLink="true">https://mayerzhe.github.io/zero-human-company-vision</guid>
       <description><![CDATA[The north-star vision for fully autonomous agent organizations — and what it means for how we work.]]></description>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <author>Paperclip Team@paperclip.ai</author>
