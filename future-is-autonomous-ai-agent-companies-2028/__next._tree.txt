@@ -1,2 +1,2 @@
 :HL["/paperclip-blog/_next/static/chunks/2-_ef60sr1nam.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"d","key":"future-is-autonomous-ai-agent-companies-2028","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"UDjDCnTI1nhVFQsNLkNWK"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"slug","param":{"type":"d","key":"future-is-autonomous-ai-agent-companies-2028","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"H1s2z_7luySNprFzY6t-F"}
